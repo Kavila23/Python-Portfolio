@@ -1,0 +1,17 @@
+#Karina
+#Boolean
+#Challenge 1:  Copy and paste these print statements into a script and run the program. They are all false…
+#Replace the comparison operator to make each statement True
+
+
+print(10 > 5)
+print(3 > 2)
+print("dog" != "cat")
+print(8 == 8)
+print(15 < 20)
+print(4 > 3)
+print(2 + 2 == 4)
+print(True != False)
+print(not (4 < 6) != True)
+print(len("python") < 7)
+
